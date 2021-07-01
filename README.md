@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # Crypto_Wallet_rb
 # Crypto-Wallet
+# crypto_wallet
